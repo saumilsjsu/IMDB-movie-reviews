@@ -4,7 +4,7 @@
 ```Train a deep learning model.```
 
 ## Data:
-```IMDB movies reviews from kaggle```
+```IMDB movies reviews from kaggle - https://drive.google.com/file/d/1bFYRBWjAqXFxrRnA6XGqRY2ffh6gsAgG/view?usp=sharing```
 
 ## Deliverables:
 ```
