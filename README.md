@@ -5,7 +5,7 @@
 
 ## Data:
 ```
-IMDB movies reviews from kaggle: 
+IMDB movies reviews from kaggle
 ```
 [Link to Dataset](https://drive.google.com/file/d/1bFYRBWjAqXFxrRnA6XGqRY2ffh6gsAgG/view?usp=sharing)
 
