@@ -1,1 +1,1 @@
-## This folder contains the ipynb, py and html file of the code.
+## This folder contains the ipynb and py file of the code.
