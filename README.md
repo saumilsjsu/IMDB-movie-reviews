@@ -8,5 +8,6 @@
 
 ## Deliverables:
 ```
-Classifying movies based on reviews. Classifying the reviews as negative/positive by implementing simple LSTM using PyTorch. 
+Classifying movies based on reviews. Classifying the reviews as negative/positive by implementing 
+simple LSTM using PyTorch. 
 ```
